@@ -10,3 +10,6 @@ summary(pcaCars)
 
 # scree plot
 plot(pcaCars, type = "l")
+
+# bar plot of component variances
+plot(pcaCars)
